@@ -1,0 +1,11 @@
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\bin\Debug\Gestion_stagiaire.exe.config
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\bin\Debug\Gestion_stagiaire.exe
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\bin\Debug\Gestion_stagiaire.pdb
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\bin\Debug\Gestion_stagiaire.xml
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.vbprojResolveAssemblyReference.cache
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.Resources.resources
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.vbproj.GenerateResource.Cache
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.vbproj.CoreCompileInputs.cache
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.exe
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.xml
+C:\Users\Abdel\source\repos\Gestion_stagiaire\Gestion_stagiaire\obj\Debug\Gestion_stagiaire.pdb
